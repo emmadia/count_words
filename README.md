@@ -32,4 +32,4 @@ Enter the file path: example.txt
 Result: `Number of words in the file: 42`
 
 ## Dependencies:
-None. The script is written in Python 3
+None
