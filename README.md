@@ -22,4 +22,5 @@ This Python script is designed to count the number of words in a text file or a 
 1. **String Input:**
    ```plaintext
    Enter text for word count: This Python script counts the number of words.
+   ```
    Result: `Number of words in the text: 9`
